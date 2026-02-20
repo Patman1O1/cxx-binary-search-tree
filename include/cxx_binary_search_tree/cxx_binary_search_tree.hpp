@@ -1,0 +1,6 @@
+#ifndef CXX_BINARY_SEARCH_TREE_HPP
+#define CXX_BINARY_SEARCH_TREE_HPP
+
+
+#endif // #ifndef CXX_BINARY_SEARCH_TREE_HPP
+
